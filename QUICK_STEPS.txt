@@ -1,0 +1,9 @@
+GOOGLE CALENDAR — SUBSCRIBE (not Import)
+
+For each URL (one at a time):
+1) Google Calendar (web)
+2) Left sidebar → Other calendars → Add other calendars → From URL
+3) Paste the URL → Add calendar
+4) (Optional) Settings → rename & color
+
+Tip: Open this file and one of the URL lists side-by-side, copy/paste each line.
